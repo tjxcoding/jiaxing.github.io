@@ -29,7 +29,7 @@ title: "tjxcoding"
 email: tjxcoding@163.com
 description: ""
 github:
-  username: tjxcoding
+  username: tjxcoding@163.com
 # swiftype:
 #   searchId: iXZyPokVfxFaBTvi64Y6
 # gitment:
@@ -39,7 +39,7 @@ github:
 
 #url: "https://bit-ranger.github.io/blog"
 url: "https://tjxcoding.github.io/jiaxing.github.io/"
-imgrepo: "https://bit-ranger.github.io/blog/static/img"
+# imgrepo: "https://bit-ranger.github.io/blog/static/img"
 
 
 #url: "http://127.0.0.1:4000"
